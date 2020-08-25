@@ -1,7 +1,7 @@
 ### 嗨!🌿
 
 哈囉~  
-於大學時不小心的開啟程式魂，至今仍喜歡寫寫程式，一步一步建立起自己的成就感。
+於大學時不小心的開啟程式魂，至今仍喜歡寫寫程式，一步一步建立起自己的成就感。  
 目前仍不斷的擴增自己的github，使其豐富，分享更多自己所會的知識。  
 
 ### 聯絡HanC📱
@@ -18,7 +18,7 @@
 <a href="https://www.youtube.com/channel/UChShAhRiCvBRx1XL2KwsOLw">
   <img align="left" alt="K.JDong | Youtube" width="20px" src="https://raw.githubusercontent.com/hanc1027/hanc1027/master/assets/youtube.svg" />
 </a>     
-
+<br>
 
 ### 喜愛的語言及工具
 

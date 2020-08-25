@@ -8,7 +8,7 @@
 ### 聯絡HanC📱
 
 <a href="https://github.com/hanc1027/hanc1027/issues">
-  <img align="left" alt="Hanc | Telegram" width="20px" src="https://raw.githubusercontent.com/hanc1027/hanc1027/master/assets/github.png" />
+  <img align="left" alt="Hanc | Telegram" width="30px" src="https://raw.githubusercontent.com/hanc1027/hanc1027/master/assets/github.png" />
 </a>
 <a href="https://t.me/hanc1027">
   <img align="left" alt="Hanc | Telegram" width="20px" src="https://raw.githubusercontent.com/hanc1027/hanc1027/master/assets/telegram.svg" />

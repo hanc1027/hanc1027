@@ -1,4 +1,4 @@
-### 嗨!🌿
+### About Me🌿
 
 哈囉~  
 於大學時無意間開啟了程式魂，至今仍喜歡寫寫程式，一步一步建立起自己的成就感。   
@@ -6,7 +6,7 @@
 目前仍不斷擴增自己的github，使其豐富，分享更多自己所會的知識。  
 廣闊の興趣：編碼、攝影、剪輯、烹飪等，只要能充實生活的活動，都愛~🐮
 
-### 聯絡HanC📱
+### Connect With Me📱
 
 <a href="https://github.com/hanc1027/hanc1027/issues">
   <img align="left" alt="Hanc | Telegram" width="25px" src="https://raw.githubusercontent.com/hanc1027/hanc1027/master/assets/github.png" />

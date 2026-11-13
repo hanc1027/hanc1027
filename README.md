@@ -1,28 +1,47 @@
-### About Me🌿
+# HanC is here 👋
 
-   
-平常喜歡與golang及javascript為伍😎  
-豐富人生，分享更多自己所會的知識。  
-廣闊の興趣：編碼、攝影、剪輯、烹飪等，只要能充實生活的活動，都愛~🐮
+## Frontend Engineer
 
-### Favorite Languages and Tools
+專注於前端架構設計、系統整合與產品開發，擁有 5+ 年商業產品開發經驗<br/>
+喜歡研究技術、解決工程問題，也持續探索 AI 如何改變軟體開發流程
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
-<br>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code> 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code> 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="25" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/apache_kafka_icon_138937.png"></code>
-<br>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+- 🏗️ **核心專業：** Vue 3、Nuxt 3、TypeScript、前端架構設計
+- ⚙️ **技術延伸：** React、Node.js、Golang、AWS
+- 🚀 **工程領域：** SSR、效能優化、API 設計、系統整合
+- 🤖 **AI Workflow：** Claude Code、Codex、SDD & ADD
+- 🌱 **持續探索：** Full-Stack System Design、Cloud Infrastructure
 
+---
+
+## 技術領域
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,ts,js,html,css,vite" />
+</p>
+
+**Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,go,express,postgres,redis,firebase" />
+</p>
+
+**DevOps & Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,gitlab" />
+</p>
+
+---
+
+## 開發經驗
+
+- 🏢 **商業產品開發：** 投資社群平台、會員系統、企業網站及內部系統
+- 🏗️ **架構與效能：** Nuxt SSR、資料快取策略、API 整合、前端效能優化
+- 🔄 **系統整合：** RESTful API、即時通訊、Firebase、AWS
+- 🤖 **AI 工程實踐：** 將 AI Agent 整合至開發、測試與程式碼品質流程
+
+---
+
+## 開發哲學
+
+創作使人興奮 價值不斷~<br/>
+**Create with passion. Grow with purpose.** 🚀
